@@ -28,7 +28,7 @@ author_profile: true
 * **Honours Thesis Award** (2022)
     * University of Waterloo, Department of Psychology
 
-* **Term Distinction** (2016)
+* **Term Distinction** (2020-2022)
     * University of Waterloo
 
 * **University of Toronto Scholars Award** (2016)
