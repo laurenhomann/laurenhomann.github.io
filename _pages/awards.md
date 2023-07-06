@@ -7,6 +7,10 @@ author_profile: true
 # Fellowships and Grants
 <hr>
 
+* **Canada Graduate Scholarship–Doctoral** (2023–2026)
+    * Natural Sciences and Engineering Research Council of Canada (NSERC)
+    * $105,000
+
 * **Canada Graduate Scholarship–Masters** (2022–2023)
     * Natural Sciences and Engineering Research Council of Canada (NSERC)
     * $17,500
