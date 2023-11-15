@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lauren Alexandra Homann"
+title                    : "Lauren Homann"
 title_separator          : "-"
-name                     : &name "Lauren Alexandra Homann"
+name                     : &name "Lauren Homann"
 description              : &description "personal description"
 url                      : https://laurenhomann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lauren Alexandra Homann"
+  name             : "Lauren Homann"
   avatar           : "lauren-headshot.png"
   bio              : "PhD Student in Psychology (Cognitive Neuroscience)"
   location         : #"Toronto, ON, Canada"
