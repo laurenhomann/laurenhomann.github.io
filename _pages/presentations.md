@@ -7,7 +7,7 @@ author_profile: true
 <hr>
 
 **Homann, L. A.,** <u>Sun, J.</u>, <u>An, J.</u>, Barense, M. D. **“The influence of retrieval practice on real-life event memory”.**
-* *Poster:* Cognitive Neuroscience Society Annual Meeting, Apr. 2024
+* *Poster:* Cognitive Neuroscience Society Annual Meeting, Apr. 2024 <a href="/files/Homann_CNS_2024.pdf" target="_blank"><img src="/images/icons/image.png" width="25" height="25"></a>
 * *Poster:* Lake Ontario Visionary Establishment (LOVE) Conference, Feb. 2024 <a href="/files/Homannetal_2024_LOVE.pdf" target="_blank"><img src="/images/icons/image.png" width="25" height="25"></a>
 
 **Homann, L. A.,** Drody, A. C., Smilek, D. **“The effects of self-selected music and task difficulty on task engagement and performance in a visual vigilance task”.**
