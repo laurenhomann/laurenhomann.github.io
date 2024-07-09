@@ -15,7 +15,8 @@ author_profile: true
 
 ## Articles in preparation
 
-Golestani, A. M., Bouffard, N. R., **Homann, L. A.**, Barense, M. D., Moscovitch, M. Brain function induces alteration in the autocorrelation of the fMRI signal. 
+Golestani, A. M., **Homann, L. A.,** Bouffard, N. R., Barense, M. D., Moscovitch, M. Brain function induces alteration in the autocorrelation of the fMRI signal. (Status: Being reviewed by co- authors.)
+
 
 <hr>
 \* Denotes shared first authorship.
