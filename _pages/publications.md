@@ -9,7 +9,7 @@ author_profile: true
 
 <hr>
 
-## Articles Under Review
+## Preprints
 
 ### Putting the testing effect to the test in the wild: Retrieval enhances real-world memories and promotes their semantic integration while preserving episodic integrity. <a href="/files/Preprint-Putting the testing effect to the test.pdf" target="_blank"><img src="/images/icons/paper.png" width="25" height="25"></a> <a href="https://doi.org/10.31234/osf.io/923rj_v2" target="_blank"><img src="/images/icons/link.png" width="25" height="25"></a> <a href="https://osf.io/t6kc3/?view_only=3fddd2fa398c4ef690649e3f538bb5c5" target="_blank"><img src="/images/icons/osf.png" width="30" height="30"></a> 
 
