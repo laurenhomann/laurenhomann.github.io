@@ -18,7 +18,7 @@ Although they often *feel* relatively stable, our memories are remarkably dynami
 
 **My primary research program investigates *why* and *how* memories change**, treating memory as a dynamic, multidimensional system in which representations are continually transformed and flexibly expressed, both on their own and in relation to one another. I study how different mnemonic features strengthen, fade, or reorganize over time, the conditions under which these changes occur, and the neural computations that support them. To do this, **I use rich, naturalistic behavioral paradigms paired with neuroimaging and computational tools** to uncover the mechanisms that drive these transformations.  
 
-**My secondary line of work focuses on developing novel neuroimaging methods to investigate how neural timescales in the brain adapt to support perception, memory, and cognition.** I aim to uncover how neural dynamics integrate information across moments, stabilize or reshape memories, and enable flexible memory expression over multiple timescales.  
+**My secondary line of work focuses on developing novel neuroimaging methods to investigate how neural timescales in the brain adapt to support perception, memory, and cognition.** I aim to uncover how neural dynamics integrate information across moments and enable flexible memory expression over multiple timescales.  
 
 ## More About Me
 
