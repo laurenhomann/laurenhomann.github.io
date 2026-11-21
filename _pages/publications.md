@@ -25,7 +25,7 @@ author_profile: true
 
 <div style="border: 1px solid #ddd; border-radius: 6px; padding: 15px; margin-bottom: 12px;">
 
-**Homann, L. A.\***, Roberts, B. R. T.\*, Ahmed, S., & Fernandes, M. A. (2022). Are emojis processed visuo-spatially or verbally? Evidence for dual codes. *Visual Cognition, 30*(4), 267–279. <a href="/files/emoji-paper.pdf" target="_blank"><img src="/images/icons/paper.png" width="25" height="25"></a> <a href="https://doi.org/10.1080/13506285.2022.2050871" target="_blank"><img src="/images/icons/link.png" width="25" height="25"></a>
+**Homann, L. A.***, Roberts, B. R. T.*, Ahmed, S., & Fernandes, M. A. (2022). Are emojis processed visuo-spatially or verbally? Evidence for dual codes. *Visual Cognition, 30*(4), 267–279. <a href="/files/emoji-paper.pdf" target="_blank"><img src="/images/icons/paper.png" width="25" height="25"></a> <a href="https://doi.org/10.1080/13506285.2022.2050871" target="_blank"><img src="/images/icons/link.png" width="25" height="25"></a>
 
 </div>
 
